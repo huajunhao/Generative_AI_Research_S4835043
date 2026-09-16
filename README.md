@@ -7,3 +7,6 @@ Answer:We would store literature review documents and drafts on a shared GitHub 
 
 3.Why is it important to have a good naming convention?
 Answer:A good naming convention makes it easy to identify what a file contains without having to open it, which saves a lot of time when working with a large number of files. It also helps the whole team stay consistent, so nobody gets confused about which version is the latest or what a file is for.
+
+4.Under what scenarios, creating a new branch would be useful(2-3 sentences)?
+Answers:Creating a new branch is useful when you want to work on a new feature or make changes without affecting the main working version of the project. For example, if two team members are editing different parts of the code at the same time, each person can work on their own branch and merge when they're done, so they don't overwrite each other's work.
